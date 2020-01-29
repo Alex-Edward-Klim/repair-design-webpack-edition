@@ -1,4 +1,4 @@
-###Note: You should have [Node.js](https://nodejs.org/en/download/) installed before running the following commands!
+### Note: You should have [Node.js](https://nodejs.org/en/download/) installed before running the following commands!
 
 0. Open the command line and choose this root folder (Repair-Design-WebPack-Edition).
 
